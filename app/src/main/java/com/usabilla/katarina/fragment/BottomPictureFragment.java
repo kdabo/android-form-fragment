@@ -29,5 +29,4 @@ public class BottomPictureFragment extends Fragment {
         bottomMemeText.setText(bottom);
     }
 
-
 }

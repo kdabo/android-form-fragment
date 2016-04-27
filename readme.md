@@ -1,18 +1,12 @@
 Fragment Android Demo 
 =====================
 
-This repo is demo for the implementation of following technologies:
------------------------------------------------------------------------
+This repo is demo for building android fragment.
+
+Technologies
+------------
 
 * Java
-* Android
-
-Effects
--------
-
-* Input text
-* Button
-* Image
 
 Preview
 --------
@@ -21,7 +15,7 @@ Preview
 YouTube Video
 -------------
 
-![Demo] ()
+![Demo] (https://youtu.be/1u0kel2Qw8k)
 
 Author:
 ========
